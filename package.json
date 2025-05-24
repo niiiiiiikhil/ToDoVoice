@@ -1,7 +1,6 @@
 { 
   "homepage": "https://niiiiiiikhil.github.io/ToDoVoice",
-  "name": "voice-todo",
-  "version": "0.1.0",
+  "name": "voice-todo",  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
